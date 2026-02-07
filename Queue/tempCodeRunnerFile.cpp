@@ -1,0 +1,10 @@
+Queue q(5);
+    q.push(10);
+    q.push(20);
+    q.push(30);
+    q.push(40);
+    q.push(50);
+    q.display();
+    cout<<endl;
+    q.pop();
+    q.display();
