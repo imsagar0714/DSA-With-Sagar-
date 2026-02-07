@@ -13,6 +13,7 @@ int main(){
             cin>>arr[i][j];
         }
     }
+    cout << endl;
     int minr=0;
     int maxr=m-1;
     int minc=0;
