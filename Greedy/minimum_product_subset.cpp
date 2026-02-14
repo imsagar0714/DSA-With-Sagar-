@@ -39,4 +39,5 @@ int main(){
     vector<int>v={4,-5,-3};
     int ans=min_product(v);
     cout<<ans;
+    cout<<endl;
 }
